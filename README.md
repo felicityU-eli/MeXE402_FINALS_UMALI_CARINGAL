@@ -21,7 +21,7 @@ TWICE is a highly popular South Korean K-pop girl group formed by JYP Entertainm
 - Chaeyoung (main rapper and vocalist)
 - Tzuyu (lead dancer, vocalist, and visual)
 ## Abstract
-The objective of this project is to develop a system capable of detecting faces in a group photo. Leveraging insights and techniques from a face detection tutorial, we aim to apply these learnings to a chosen image featuring the members of the K-pop group TWICE. The approach involves utilizing advanced computer vision methods to identify and highlight individual faces within the photo. The expected outcome is a processed image where each member of TWICE has their face outlined with a rectangular highlight, demonstrating precise and effective face detection. This project underscores the application of computer vision techniques in real-world scenarios.
+The objective of this project is to develop a system capable of detecting faces in a group photo. Leveraging insights and techniques from a face detection tutorial, we aim to apply these learnings to a chosen image featuring the members of the K-pop group TWICE. The approach involves utilizing advanced computer vision methods to identify and highlight individual faces within the photo. The expected outcome is a processed image where each member of TWICE has their face outlined with a ellipse or rectangular highlight, demonstrating precise and effective face detection. This project underscores the application of computer vision techniques in real-world scenarios.
 
 ## Project Methods
 Files:
