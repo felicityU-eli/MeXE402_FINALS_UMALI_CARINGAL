@@ -40,7 +40,12 @@ The project successfully demonstrated face detection in a group photo using a ca
 
 ## Additional Material
 Program demonstration link: https://drive.google.com/file/d/1Ptgz_lJdoHS3NrcmtCZQXZ242y7s0rQe/view?usp=sharing
+
+You can access our code at this link: https://colab.research.google.com/drive/1m8B9muOwGpR_BKvsSncWSfCJckcweDPc?usp=sharing
+
 Before running the code to dataset twice01:
-/content/MeXE402_FINALS_UMALI_CARINGAL/ELex Finals/TWICE DATASET/twice01.jpg
+![image](https://github.com/user-attachments/assets/fe35c32e-53f0-4565-b3b2-fba5e7b5c787)
+
+
 After running the code to dataset twice 01:
 ![image](https://github.com/user-attachments/assets/b7afa09c-08a1-4de4-997d-86d26ce396cb)
