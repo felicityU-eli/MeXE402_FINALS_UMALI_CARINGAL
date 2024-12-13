@@ -39,3 +39,8 @@ Coding:
 The project successfully demonstrated face detection in a group photo using a cascade classifier, with accurate identification and highlighting of individual faces. Key findings reveal that the system allows flexibility in customizing the color, shape, and thickness of highlights, and it supports different images, although noisy images with multiple faces may result in some undetected or misidentified faces. Challenges encountered included ensuring the image was converted to grayscale, as the detection algorithm requires this format, and using the correct file path to load the image. Despite these challenges, the code performed accurately on clean images, though noisy images highlighted the need for further optimization to improve robustness. This project underscores the potential and limitations of face detection algorithms in complex scenarios.
 
 ## Additional Material
+Program demonstration link: https://drive.google.com/file/d/1Ptgz_lJdoHS3NrcmtCZQXZ242y7s0rQe/view?usp=sharing
+Before running the code to dataset twice01:
+/content/MeXE402_FINALS_UMALI_CARINGAL/ELex Finals/TWICE DATASET/twice01.jpg
+After running the code to dataset twice 01:
+![image](https://github.com/user-attachments/assets/b7afa09c-08a1-4de4-997d-86d26ce396cb)
