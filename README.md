@@ -32,7 +32,7 @@ Coding:
 - Import necessary libraries and functions for face detection.
 - Convert the image to grayscale to meet the requirements of the face detection code.
 - Apply the face detection algorithm to identify faces in the image.
-- Overlay rectangular highlights on the detected faces.
+- Overlay ellipse or rectangular highlights on the detected faces.
 - Display the final output image with highlighted faces.
 
 ## Conclusion
